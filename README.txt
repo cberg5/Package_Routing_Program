@@ -19,7 +19,7 @@ Python Version: 3.9.6
 
 Usage Instructions:
 
-Run the program to initiate the command-line interface.
-The program displays its name and the total miles covered by the trucks on their current routes.
-Enter a valid time of day in HH:MM:SS format when prompted.
-A table presenting all package data will be shown, indicating the package status at the provided time.
+-Run the program to initiate the command-line interface.
+-The program displays its name and the total miles covered by the trucks on their current routes.
+-Enter a valid time of day in HH:MM:SS format when prompted.
+-A table presenting all package data will be shown, indicating the package status at the provided time.
